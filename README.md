@@ -1,5 +1,7 @@
-Sebastian Cojocariu 321CB UBP ACS
-					                                              MINI-KERMIT
+Sebastian Cojocariu 321CB UPB ACS
+
+
+								MINI-KERMIT
 
 
 Functii ajutatoare lib.c
